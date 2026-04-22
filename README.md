@@ -1,4 +1,4 @@
-# 🏦 Indian Banking Sector Analytics Dashboard
+#  Indian Banking Sector Analytics Dashboard
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)  
 *An interactive dashboard for analyzing the Indian banking industry (2013–2023)*
